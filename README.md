@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=tarundev-x&show_icons=true&theme=github_dark)(https://github.com/anuraghazra/github-readme-stats)]
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=tarundev-x&show_icons=true&theme=github_dark)]
 <div style="display:flex;flex-direction:row;">
   <h2>
     ❤Competitive Coding❤  
