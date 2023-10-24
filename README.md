@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarundev-x&label=Profile%20views&color=0e75b6&style=flat" alt="tarundev-x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarundev-x" alt="tarundev-x" /></a> </p>
+
 
 - 🔭 I’m currently working on **Spring Boot Projects**
 
