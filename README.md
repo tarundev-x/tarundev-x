@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Spring Boot Projects**
 
-- 🌱 I’m currently learning **Hibernate Framework, Angular**
+- 🌱 I’m currently learning **Hibernate Framework,React**
 
 - 💬 Ask me about **Spring Boot**
 
